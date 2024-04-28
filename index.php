@@ -21,9 +21,8 @@ if (!isset($_SESSION['user'])) {
     <title>Document</title>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    
+    <script src="ejercicios.js"></script>
 </head>
-
 <body>
     <h1><center>The Visits</center></h1>
     <table class="redTable">
